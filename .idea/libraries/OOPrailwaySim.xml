@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OOPrailwaySim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OOPrailwaySim.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
