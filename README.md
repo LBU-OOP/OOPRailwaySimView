@@ -1,4 +1,5 @@
 # OOPrailwaySim
-## V1.7 20/3/25
+## V1.8 16/4/25
+Ability to remove vehicles
 Graphics for crossings
 Derailment bug fix
