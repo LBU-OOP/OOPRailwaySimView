@@ -1,5 +1,7 @@
 # OOPrailwaySim
-## You must have at least version 1.8 for your assignment, but it is recommended to have he latest version.
+ You must have at least version 1.8 for your assignment, but it is recommended to have he latest version.
+## V1.92 28/4/25
+captureVehiclesState(); now also captures state of crossings and resetSImulation() resets to this.
 ## V1.91 28/4/25
 turned debug info off, turn it on with DebugLevel.setLevel(2);
 ## V1.90 24/4/25
