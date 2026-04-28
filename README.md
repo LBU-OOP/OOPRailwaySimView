@@ -1,5 +1,8 @@
 # OOPrailwaySim
-## V1.9 24/4/25
+## You must have at least version 1.8 for your assignment, but it is recommended to have he latest version.
+## V1.91 28/4/25
+turned debug info off, turn it on with DebugLevel.setLevel(2);
+## V1.90 24/4/25
 deleteCompleteLoco(locoID) to remove a loco and its carriages from the GameWorld \
 deleteCarriage(locoID) to remove the last carriage from a loco from the GameWorld \
 fixed crossing issues \
